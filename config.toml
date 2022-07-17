@@ -48,16 +48,10 @@ url = "https://twitter.com/hpsaturn"
 
 [menu]
   [[menu.main]]
-    identifier = "installer"
-    name = "Installer"
-    url = "/installer/"
-    weight = 10
-
-  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 20
+    weight = 10
 
 [taxonomies]
 category = "categories"
