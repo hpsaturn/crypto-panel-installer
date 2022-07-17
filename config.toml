@@ -1,4 +1,4 @@
-baseURL = 'https://cryptopanel.github.io'
+baseURL = 'https://hpsaturn.com/crypto-panel-installer'
 languageCode = 'en-us'
 title = 'Crypto Panel'
 theme = "risotto"
