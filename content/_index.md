@@ -20,5 +20,7 @@ From this page you only need press the **install button**:
 
 # STEP 3: Configure the panel
 
+After the installation finish, in the same window, you able to configure the device using `logs & console` button. More info [here](https://github.com/hpsaturn/crypto-currency#panel-config)
+
 
 

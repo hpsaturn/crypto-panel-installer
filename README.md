@@ -1,3 +1,3 @@
 # Crypto Panel
 
-Crypto Panel Web Installer
+[Crypto Panel](https://github.com/hpsaturn/crypto-panel) Web Installer
